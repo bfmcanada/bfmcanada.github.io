@@ -1,0 +1,8 @@
+title: BFM Canada
+email: bfmcanada@outlook.com
+logo: "/assets/logos/bfmlogo.jpeg"
+baseurl: ""
+url: "https://bfmcanada.github.io"
+
+# Build settings
+remote_theme: daviddarnes/alembic@main
