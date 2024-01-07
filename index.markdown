@@ -6,6 +6,10 @@ permalink: /
 
 All of our Bible study presentation materials are freely available below in downloadable PDF form.
 
+## God's Dwelling in Creation (2024)
+
+* [The Word Made Flesh](./assets/studies/BFM_The_Word_Made_Flesh.pdf)
+
 ## The Good News - The Armour of God (2023)
 
 * [Part 1 - Introduction](./assets/studies/BFM_The_Good_News_Part_1_Introduction.pdf)
