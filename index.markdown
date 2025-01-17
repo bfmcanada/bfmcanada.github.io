@@ -9,7 +9,8 @@ Recordings of the presentations are also posted where available.
 
 ## God's Dwelling in Creation
 
-* The Word Made Flesh: [PDF Slides](./assets/studies/BFM_The_Word_Made_Flesh.pdf) \| [Recording](https://player.vimeo.com/video/915814010?h=eb85a97ce3)
+* The Word Made Flesh: [PDF Slides](./assets/studies/BFM_The_Word_Made_Flesh.pdf) \| [Recording](https://vimeo.com/915814010)
+* The Two Gardens: [PDF Slides](./assets/studies/BFM_The_Two_Gardens.pdf) \| [Recording](https://vimeo.com/1047698020)
 
 ## The Good News - The Armour of God
 
