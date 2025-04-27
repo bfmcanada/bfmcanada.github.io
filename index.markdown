@@ -7,6 +7,10 @@ permalink: /
 All of our Bible study presentation materials are freely available below in downloadable PDF form.
 Recordings of the presentations are also posted where available.
 
+## The "I Am" Statements of Jesus
+
+* The Light of the World: [PDF Slides](./assets/studies/BFM_The_Light_of_Life.pdf) \| [Recording](https://vimeo.com/1079111525)
+
 ## God's Dwelling in Creation
 
 * The Word Made Flesh: [PDF Slides](./assets/studies/BFM_The_Word_Made_Flesh.pdf) \| [Recording](https://vimeo.com/915814010)
