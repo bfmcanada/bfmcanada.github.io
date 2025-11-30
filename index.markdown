@@ -10,6 +10,7 @@ Recordings of the presentations are also posted where available.
 ## The "I Am" Statements of Jesus
 
 * The Light of the World: [PDF Slides](./assets/studies/BFM_The_Light_of_Life.pdf) \| [Recording](https://vimeo.com/1079111525)
+* The Resurrection and Life: [PDF Slides](./assets/studies/BFM_The_Resurrection_and_Life.pdf ) \| [Recording](https://vimeo.com/1141885690)
 
 ## God's Dwelling in Creation
 
